@@ -1,4 +1,4 @@
-# Angularexpressfirebase
+# Desafio de Código.
 
 Crie uma aplicação com seguintes recursos:
 - login (sugestão usar authorization do firebase da google), não precisa ter tela de cadastro de usuário.
